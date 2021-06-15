@@ -1,7 +1,3 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>
-
 <a href="https://github.com/gleysonabreu" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
@@ -25,17 +21,11 @@ I’m a back-end developer from Caucaia, Brazil.
 
 ## Rapidfire
 
-<table><tr><td valign="top" width="50%">
-
 - 🌍 Learning all about open soruce
 
 - 🌱 I’m currently learning Docker, Nodejs and more
 
 - ⚡ Fun fact: I'm a huge fan of Harry Potter
-
-</td><td valign="top" width="50%">
-
-</td></tr></table>
 
 <br/>
 
