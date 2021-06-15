@@ -17,8 +17,6 @@
 
 I’m a back-end developer from Caucaia, Brazil.
 
-<br/>
-
 ## Rapidfire
 
 - 🌍 Learning all about open soruce
@@ -26,8 +24,6 @@ I’m a back-end developer from Caucaia, Brazil.
 - 🌱 I’m currently learning Docker, Nodejs and more
 
 - ⚡ Fun fact: I'm a huge fan of Harry Potter
-
-<br/>
 
 ## Languages and Tools
 
